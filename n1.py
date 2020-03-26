@@ -1,6 +1,7 @@
 from selenium import webdriver
 import time
 
+# Пробую делать изменения, чтобы скоммитить результат
 try:
     link = "http://suninjuly.github.io/registration2.html"
     browser = webdriver.Chrome()
